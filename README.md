@@ -1,12 +1,13 @@
 # chatgpt-plugins
 Collection of ChatGPT plugins
 
-## No-Auth
+## No User Auth
 * https://www.klarna.com/.well-known/ai-plugin.json
 * https://www.joinmilo.com/.well-known/ai-plugin.json
 * https://api.speak.com/.well-known/ai-plugin.json
+* https://www.wolframalpha.com/.well-known/ai-plugin.json
 
-## Require Auth
+## Require User Auth
 * https://slack.com/.well-known/ai-plugin.json
 * https://zapier.com/.well-known/ai-plugin.json
 
