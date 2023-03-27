@@ -7,6 +7,7 @@ Collection of ChatGPT plugins
 * https://api.speak.com/.well-known/ai-plugin.json
 * https://www.wolframalpha.com/.well-known/ai-plugin.json
 * https://server.shop.app/.well-known/ai-plugin.json
+* https://chat-calculator-plugin.supportmirage.repl.co/.well-known/ai-plugin.json
 
 ## Require User Auth
 * https://slack.com/.well-known/ai-plugin.json
