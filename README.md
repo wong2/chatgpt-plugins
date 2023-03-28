@@ -1,6 +1,9 @@
 # chatgpt-plugins
 Collection of ChatGPT plugins
 
+## Learning Resources & Playgrounds
+* https://play.chatplugin.app
+
 ## No User Auth
 * https://www.klarna.com/.well-known/ai-plugin.json
 * https://www.joinmilo.com/.well-known/ai-plugin.json
