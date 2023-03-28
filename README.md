@@ -2,7 +2,9 @@
 Collection of ChatGPT plugins
 
 ## Learning Resources & Playgrounds
-* https://play.chatplugin.app
+* OpenAI plugins https://openai.com/blog/chatgpt-plugins
+* OpenAI documentation https://platform.openai.com/docs/plugins/getting-started/plugin-manifest
+* Plugin Emulator https://play.chatplugin.app
 
 ## No User Auth
 * https://www.klarna.com/.well-known/ai-plugin.json
